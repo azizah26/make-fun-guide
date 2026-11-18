@@ -6,9 +6,9 @@
 
 **New here? Start with this link — it takes about 5 minutes to sign up:**
 
-👉 **https://make.fun/r/4j66aw7d**
+👉 **https://make.fun/r/renn5ebe**
 
-Referral code: `4j66aw7d`
+Referral code: `renn5ebe`
 
 This guide explains what make.fun is, how to create your account, and how to
 enter your first bounty. No prior knowledge needed.
@@ -50,8 +50,8 @@ You need nothing except a Solana wallet — the wallet app you already use, or
 any standard Solana wallet — and about five minutes.
 
 1. **Open the signup link:**
-   https://make.fun/r/4j66aw7d
-   (referral code: `4j66aw7d`)
+   https://make.fun/r/renn5ebe
+   (referral code: `renn5ebe`)
 2. **Sign in with Solana.** Your wallet asks you to sign a message. That is
    only a signature — no transaction, no fee, nothing leaves your wallet.
 3. **Your account is created.** The first sign-in makes you an account with a
@@ -64,7 +64,7 @@ any standard Solana wallet — and about five minutes.
 That is it — you now have an account, and you can browse bounties.
 
 > Signing up through the link above credits this guide's referral code
-> (`4j66aw7d`). The link is https://make.fun/r/4j66aw7d — that is the
+> (`renn5ebe`). The link is https://make.fun/r/renn5ebe — that is the
 > address to share with anyone you send here.
 
 ## Enter your first bounty
@@ -143,8 +143,8 @@ affect your entries.
 
 Sign up here:
 
-👉 **https://make.fun/r/4j66aw7d**
+👉 **https://make.fun/r/renn5ebe**
 
-Referral code: `4j66aw7d`
+Referral code: `renn5ebe`
 
 Good luck — pick a bounty, build something, and ship it.
